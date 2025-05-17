@@ -3,3 +3,6 @@ torch==2.0.1
 transformers==4.30.0
 flask==2.3.2
 gunicorn==20.1.0
+transformers
+scikit-learn
+pandas
